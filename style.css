@@ -1,0 +1,271 @@
+body {
+    font-family: 'Lato', sans-serif;
+ }
+
+ .logo {
+    width: 200px;
+    height: 100px;
+    padding-top: 50px;
+}
+
+.Button
+{
+    background-color: #396A4A;
+    color: white;
+    font-weight: bold;
+    border: #396A4A;
+    border-width: 0ch;
+    
+    text-align: center;
+    border-top-left-radius: 10px;
+    border-bottom-right-radius: 10px; 
+    border-top-right-radius: 10px;
+    border-bottom-left-radius: 10px; 
+    margin: auto;
+    padding: 10px;
+    display: inline-block;
+    font-size: 33.6px;
+    font-weight: bold;
+}
+
+
+
+.Button_Icon_Search
+{
+    position: absolute;
+    width: 56.65px;
+    height: 56.65px;
+    left: 1350.3px;
+    top: 77.7px;
+}
+
+.Button_Text_Donate
+{
+    position: absolute;
+    width: 173.25px;
+    height: 76.65px;
+    left: 1160.25px;
+    top: 77.7px;
+
+}
+
+.Button_I_Want
+{
+    position: absolute;
+    width: 366.45px;
+    height: 76.65px;
+    left: 134.4px;
+    top: 1390.2px;
+}
+
+.Button_Calendar
+{
+    position: absolute;
+    width: 366.45px;
+    height: 76.65px;
+    left: 593.25px;
+    top: 1390.2px;
+    
+}
+
+.Button_What_To_Know
+{
+    position: absolute;
+    width: 366.45px;
+    height: 76.65px;
+    left: 1031.1px;
+    top: 1390.2px;
+    
+}
+
+
+.Nav_Bar_Background {
+    position: absolute;
+    width: 1512px;
+    height: 81.9px;
+    left: 0px;
+    top: 210px;
+    background-color: #E5F2E6;
+    
+
+}
+
+.Nav_Bar_Text {
+    
+font-family: 'Lato';
+font-style: normal;
+font-weight: 700;
+font-size: 21.7px;
+line-height: 42px;
+
+display: flex;
+align-items: center;
+letter-spacing: 0.05em;
+text-transform: capitalize;
+white-space: nowrap;
+
+color: #000000;
+}
+
+.Nav_Bar_Text_Aboutus
+{
+    position: absolute;
+    width: 120px;
+    height: 42px;
+    left: 136px;
+    top: 230.15px;
+}
+
+.Nav_Bar_Text_Ourimpact
+{
+    position: absolute;
+    width: 120px;
+    height: 42px;
+    left: 377px;
+    top: 230.15px;
+}
+
+.Nav_Bar_Text_Requestaramp
+{
+    position: absolute;
+    width: 174px;
+    height: 42px;
+    left: 640px;
+    top: 230.15px;
+}
+
+.Nav_Bar_Text_Wherewebuild
+{
+    position: absolute;
+    width: 175px;
+    height: 42px;
+    left: 957px;
+    top: 230.15px;
+}
+
+.Nav_Bar_Text_Volunteer
+{
+    position: absolute;
+    width: 115px;
+    height: 42px;
+    left: 1275px;
+    top: 230.15px;
+}
+
+.Image_Volunteer
+{
+    position: absolute;
+    width: 1295.7px;
+    height: 701.4px;
+    left: 108.15px;
+    top: 634.2px;
+}
+
+.Text
+{
+    font-family: 'Lato';
+    font-style: normal;
+    font-weight: 800;
+    font-size: 75.6px;
+    line-height: 91px;
+
+    display: flex;
+    align-items: center;
+    letter-spacing: 0.05em;
+
+color: #396A4A;
+}
+
+.Text_Volunteer
+{
+    position: absolute;
+    width: 392px;
+    height: 91px;
+    left: 136.5px;
+    top: 365.4px;
+}
+
+.P_Text {
+
+    position: absolute;
+    width: 1224.3px;
+    height: 178.5px;
+    left: 136.5px;
+    top: 455.7px;
+
+    font-family: 'Lato';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 25.2px;
+    line-height: 30px;
+    display: flex;
+    align-items: center;
+    text-align: justify;
+
+    color: #000000;
+
+
+}
+
+.Heading {
+
+    font-family: 'Lato';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 50.4px;
+    line-height: 60px;
+
+    color: #000000;
+}
+
+.Headig_RampBuildingVolunteers {
+    position: absolute;
+    width: 1257.9px;
+    height: 427.35px;
+    left: 127.05px;
+    top: 1534.05px;
+}
+
+.Headig_OtherVolunteerOpportunities {
+    position: absolute;
+    width: 1257.9px;
+    height: 427.35px;
+    left: 127.05px;
+    top: 1800.00px;
+}
+
+.Body_P {
+
+    font-weight: 400;
+    font-size: 25.2px;
+    line-height: 30px;
+
+}
+
+.p2 {
+    position: absolute;
+    width: 1257.9px;
+    height: 427.35px;
+    left: 127.05px;
+    top: 1650.05px;
+
+}
+
+.p3 {
+    position: absolute;
+    width: 1257.9px;
+    height: 427.35px;
+    left: 127.05px;
+    top: 1900.05px;
+    
+
+}
+
+.Body_P3 {
+
+    font-weight: 400;
+    font-size: 25.2px;
+    line-height: 30px;
+
+}
+
